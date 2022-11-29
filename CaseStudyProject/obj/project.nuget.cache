@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "k2zId9ePkxW3TpjbJLeulQdqRtcA/lcXdCZZomnszUWAU2iLSWGGt/BTbFdAPisIxVQt3Ppx6Dc6isHl3yiEDg==",
+  "dgSpecHash": "ADUv20f7UUId8RaysBfkfBH6pt5n62XPUu+aM8O2JO4BVZKEVAep9bxSPK43WWX+/yXJ1JVc1KthcVZ2T+EyxA==",
   "success": true,
   "projectFilePath": "D:\\School_dingen\\Devops\\CaseStudyProjectFolder\\CaseStudyProject\\CaseStudyProject.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Pim\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,9 +22,13 @@ namespace CaseStudyProject
                 new Form1().Show();
                 this.Hide();
             }
+            if (txt_user.Text == "" && txt_pass.Text == "")
+            {
+                MessageBox.Show("U moet de lege velden invullen.");
+            }
             else
             {
-                MessageBox.Show("You have given incorrect or no data.");
+                MessageBox.Show("Foute gebruikersnaam of wachtwoord.");
             }
         }
     }

@@ -15,3 +15,9 @@ D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcor
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.dll
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.pdb
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.genruntimeconfig.cache
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsqlite3.so
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsqlite3.dylib
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sqlite3.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.Properties.Resources.resources
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.csproj.CopyComplete

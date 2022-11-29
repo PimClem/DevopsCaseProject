@@ -36,10 +36,11 @@ namespace CaseStudyProject
             // 
             // btn_toevoegen1
             // 
+            this.btn_toevoegen1.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btn_toevoegen1.Location = new System.Drawing.Point(660, 77);
             this.btn_toevoegen1.Name = "btn_toevoegen1";
             this.btn_toevoegen1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.btn_toevoegen1.Size = new System.Drawing.Size(103, 29);
+            this.btn_toevoegen1.Size = new System.Drawing.Size(128, 29);
             this.btn_toevoegen1.TabIndex = 0;
             this.btn_toevoegen1.Text = "Toevoegen";
             this.btn_toevoegen1.UseVisualStyleBackColor = true;
@@ -47,10 +48,11 @@ namespace CaseStudyProject
             // 
             // btn_verwijderen1
             // 
+            this.btn_verwijderen1.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.btn_verwijderen1.Location = new System.Drawing.Point(660, 112);
             this.btn_verwijderen1.Name = "btn_verwijderen1";
             this.btn_verwijderen1.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.btn_verwijderen1.Size = new System.Drawing.Size(103, 29);
+            this.btn_verwijderen1.Size = new System.Drawing.Size(128, 29);
             this.btn_verwijderen1.TabIndex = 1;
             this.btn_verwijderen1.Text = "Verwijderen";
             this.btn_verwijderen1.UseVisualStyleBackColor = true;
@@ -58,10 +60,11 @@ namespace CaseStudyProject
             // 
             // btn_logOut
             // 
-            this.btn_logOut.Location = new System.Drawing.Point(685, 12);
+            this.btn_logOut.Font = new System.Drawing.Font("Verdana", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btn_logOut.Location = new System.Drawing.Point(660, 12);
             this.btn_logOut.Name = "btn_logOut";
             this.btn_logOut.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.btn_logOut.Size = new System.Drawing.Size(103, 29);
+            this.btn_logOut.Size = new System.Drawing.Size(128, 29);
             this.btn_logOut.TabIndex = 2;
             this.btn_logOut.Text = "Uitloggen";
             this.btn_logOut.UseVisualStyleBackColor = true;

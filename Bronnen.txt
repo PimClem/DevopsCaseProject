@@ -1,4 +1,10 @@
 Text file voor links bij te houden
 
+git command:
+git add .
+git commit -m "(text)"
+git push
+
+
 SQLite connectie met VS
 https://youtu.be/anTP-mgktiI
