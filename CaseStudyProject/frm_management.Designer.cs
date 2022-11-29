@@ -65,6 +65,7 @@ namespace CaseStudyProject
             this.btn_logOut.TabIndex = 2;
             this.btn_logOut.Text = "Uitloggen";
             this.btn_logOut.UseVisualStyleBackColor = true;
+            this.btn_logOut.Click += new System.EventHandler(this.btn_logOut_Click);
             // 
             // Form1
             // 

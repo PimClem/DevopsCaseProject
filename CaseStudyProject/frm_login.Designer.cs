@@ -29,11 +29,14 @@ namespace CaseStudyProject
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btn_login = new System.Windows.Forms.Button();
             this.lbl_user = new System.Windows.Forms.Label();
             this.lbl_pass = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txt_user = new System.Windows.Forms.TextBox();
+            this.txt_pass = new System.Windows.Forms.TextBox();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_login
@@ -44,6 +47,7 @@ namespace CaseStudyProject
             this.btn_login.TabIndex = 0;
             this.btn_login.Text = "Log in";
             this.btn_login.UseVisualStyleBackColor = true;
+            this.btn_login.Click += new System.EventHandler(this.btn_login_Click);
             // 
             // lbl_user
             // 
@@ -63,32 +67,38 @@ namespace CaseStudyProject
             this.lbl_pass.TabIndex = 2;
             this.lbl_pass.Text = "Password";
             // 
-            // textBox1
+            // txt_user
             // 
-            this.textBox1.Location = new System.Drawing.Point(74, 124);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(125, 27);
-            this.textBox1.TabIndex = 3;
+            this.txt_user.Location = new System.Drawing.Point(74, 124);
+            this.txt_user.Name = "txt_user";
+            this.txt_user.Size = new System.Drawing.Size(125, 27);
+            this.txt_user.TabIndex = 3;
             // 
-            // textBox2
+            // txt_pass
             // 
-            this.textBox2.Location = new System.Drawing.Point(74, 177);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(125, 27);
-            this.textBox2.TabIndex = 4;
+            this.txt_pass.Location = new System.Drawing.Point(74, 177);
+            this.txt_pass.Name = "txt_pass";
+            this.txt_pass.PasswordChar = '*';
+            this.txt_pass.Size = new System.Drawing.Size(125, 27);
+            this.txt_pass.TabIndex = 4;
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
             // 
             // frm_login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_pass);
+            this.Controls.Add(this.txt_user);
             this.Controls.Add(this.lbl_pass);
             this.Controls.Add(this.lbl_user);
             this.Controls.Add(this.btn_login);
             this.Name = "frm_login";
             this.Text = "Bibliotheek manager";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -99,7 +109,8 @@ namespace CaseStudyProject
         private System.Windows.Forms.Button btn_login;
         private System.Windows.Forms.Label lbl_user;
         private System.Windows.Forms.Label lbl_pass;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txt_user;
+        private System.Windows.Forms.TextBox txt_pass;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }

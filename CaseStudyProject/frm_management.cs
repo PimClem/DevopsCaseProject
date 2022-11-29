@@ -26,5 +26,11 @@ namespace CaseStudyProject
         {
 
         }
+
+        private void btn_logOut_Click(object sender, EventArgs e)
+        {
+            new frm_login().Show();
+            this.Hide();
+        }
     }
 }

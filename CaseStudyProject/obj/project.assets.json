@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School_dingen\\Devops\\CaseStudyProject\\CaseStudyProject.csproj",
+      "projectUniqueName": "D:\\School_dingen\\Devops\\CaseStudyProjectFolder\\CaseStudyProject\\CaseStudyProject.csproj",
       "projectName": "CaseStudyProject",
-      "projectPath": "D:\\School_dingen\\Devops\\CaseStudyProject\\CaseStudyProject.csproj",
+      "projectPath": "D:\\School_dingen\\Devops\\CaseStudyProjectFolder\\CaseStudyProject\\CaseStudyProject.csproj",
       "packagesPath": "C:\\Users\\Pim\\.nuget\\packages\\",
-      "outputPath": "D:\\School_dingen\\Devops\\CaseStudyProject\\obj\\",
+      "outputPath": "D:\\School_dingen\\Devops\\CaseStudyProjectFolder\\CaseStudyProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,4 @@
+Text file voor links bij te houden
+
+SQLite connectie met VS
+https://youtu.be/anTP-mgktiI

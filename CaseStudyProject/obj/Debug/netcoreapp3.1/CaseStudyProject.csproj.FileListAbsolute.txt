@@ -1,0 +1,17 @@
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.exe
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.deps.json
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.runtimeconfig.json
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.runtimeconfig.dev.json
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\CaseStudyProject.pdb
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.csproj.AssemblyReference.cache
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.frm_login.resources
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.Form1.resources
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.csproj.GenerateResource.cache
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.AssemblyInfoInputs.cache
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.AssemblyInfo.cs
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.csproj.CoreCompileInputs.cache
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.pdb
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.genruntimeconfig.cache

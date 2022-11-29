@@ -14,5 +14,18 @@ namespace CaseStudyProject
         {
             InitializeComponent();
         }
+
+        private void btn_login_Click(object sender, EventArgs e)
+        {
+            if (txt_user.Text == "admin" && txt_pass.Text== "test123")
+            {
+                new Form1().Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("You have given incorrect or no data.");
+            }
+        }
     }
 }

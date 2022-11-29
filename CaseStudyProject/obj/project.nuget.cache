@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGNfqFQ1j5MsNaseLjQIUJVKJUxtDvjy83NebJOtLR4yZlrdFMwK6IeHrQj4yPqV+KOYeZhidfyhsvP0OmdsOA==",
+  "dgSpecHash": "k2zId9ePkxW3TpjbJLeulQdqRtcA/lcXdCZZomnszUWAU2iLSWGGt/BTbFdAPisIxVQt3Ppx6Dc6isHl3yiEDg==",
   "success": true,
-  "projectFilePath": "D:\\School_dingen\\Devops\\CaseStudyProject\\CaseStudyProject.csproj",
+  "projectFilePath": "D:\\School_dingen\\Devops\\CaseStudyProjectFolder\\CaseStudyProject\\CaseStudyProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
