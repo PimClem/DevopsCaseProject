@@ -5,4 +5,4 @@ Een Bibliotheek management application voor personeel.
 - Kijken of er boeken in opslag zijn en/of uitgeleend zijn (met filters).
 - Boetes voor het laat in leveren.
 - Bekijken van leners in detail en wat ze nu en in het verleden hebben uitgeleend.
-- Nieuwe boeken toevoegen, aanpassen of verwijderen.
+- Nieuwe boeken toevoegen, aanpassen of verwijderen.	 

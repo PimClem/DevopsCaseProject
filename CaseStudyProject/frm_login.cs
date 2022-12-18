@@ -17,12 +17,17 @@ namespace CaseStudyProject
 
         private void btn_login_Click(object sender, EventArgs e)
         {
-            if (txt_user.Text == "admin" && txt_pass.Text== "test123")
+            //var for user and password
+            string user = "admin";
+            string pass = "admin";
+
+            //check for validation
+            if (txt_user.Text == user && txt_pass.Text== pass)
             {
                 new Form1().Show();
                 this.Hide();
             }
-            if (txt_user.Text == "" && txt_pass.Text == "")
+            else if (txt_user.Text == "" && txt_pass.Text == "")
             {
                 MessageBox.Show("U moet de lege velden invullen.");
             }

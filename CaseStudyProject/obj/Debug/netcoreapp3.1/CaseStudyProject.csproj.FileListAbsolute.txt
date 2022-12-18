@@ -21,3 +21,17 @@ D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcor
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sqlite3.dll
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.Properties.Resources.resources
 D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\obj\Debug\netcoreapp3.1\CaseStudyProject.csproj.CopyComplete
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School_dingen\Devops\CaseStudyProjectFolder\CaseStudyProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
