@@ -22,18 +22,18 @@ namespace CaseStudyProject
             string pass = "admin";
 
             //check for validation
-            if (txt_user.Text == user && txt_pass.Text== pass)
+            if (txt_user.Text == user && txt_pass.Text== pass) //check if correct
             {
                 new Form1().Show();
                 this.Hide();
             }
             else if (txt_user.Text == "" && txt_pass.Text == "")
             {
-                MessageBox.Show("U moet de lege velden invullen.");
+                MessageBox.Show("U moet de lege velden invullen."); //empty
             }
             else
             {
-                MessageBox.Show("Foute gebruikersnaam of wachtwoord.");
+                MessageBox.Show("Foute gebruikersnaam of wachtwoord."); //wrong
             }
         }
     }
